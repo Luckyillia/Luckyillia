@@ -20,7 +20,7 @@
 
 - 🎓 Final-year student, training to become a professional programmer
 - 🔭 Building small-to-medium projects: websites, games, desktop apps, and internal tools
-- 🌱 Currently improving my **React**, **Python**, and backend skills (Supabase, SQL)
+- 🌱 Currently improving my **React / Next.js**, **TypeScript**, **Python**, and backend skills (Supabase, SQL)
 - 🧭 I'm honest about my level: I use all of these tools in real projects, but I'm still growing, and I'm happy to keep learning from more experienced people
 - 💬 Ask me about: web development, game-related projects, Git basics
 - 🌍 Speaks: Russian, English, Polish
@@ -34,13 +34,13 @@
 **Used in my projects**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,vite,html,css,python,cs,supabase,postgres,git,github&theme=dark" alt="Used in projects" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,html,css,php,python,cs,supabase,postgres,vercel,git,github&theme=dark" alt="Used in projects" />
 </p>
 
 **Used in school / smaller projects**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,php,bootstrap,androidstudio,idea,pycharm&theme=dark" alt="School and smaller projects" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,bootstrap,androidstudio,idea,pycharm&theme=dark" alt="School and smaller projects" />
 </p>
 
 **Tools & creative**
@@ -54,36 +54,40 @@
 
 ## 🚀 Featured projects
 
-### 🚗 [Forward Auto Rent](https://github.com/Luckyillia/Rent)
-A vehicle rental website for a game server community. Visitors browse the vehicle catalog and send rental requests; an admin panel manages the catalog and bookings.
+### 📚 [Metodichka MZ](https://github.com/Luckyillia/metodichka-mz) · [Live](https://metodichka-mz.vercel.app)
+A web platform for managing documentation and training materials for a game-server community. Role-based access (root / admin / lead / user), account request and approval flow, action log, and a report generator.
 
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Deno](https://img.shields.io/badge/Edge_Functions-000000?style=flat-square&logo=deno&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 🎭 Mafia Vendetta
-A party game of the classic Mafia format, built as a Python app with a NiceGUI interface.
+### 🎨 [PaintCatalog](https://github.com/Luckyillia/PaintCatalog) · [Live](https://osnova-styling-center.vercel.app)
+A catalog of stock paint colors for in-game vehicles: browse by category, pick a car, and see its available colors. Data is stored in Supabase and managed through an admin panel.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NiceGUI](https://img.shields.io/badge/NiceGUI-5898D4?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-> 🔗 Repository: `ADD LINK`
+### 🌐 [StartWeb](https://github.com/Luckyillia/StartWeb)
+A PHP web application with user login and logout, user management, and a news section backed by a SQL database.
 
-### 📇 LEADAPP
-A lead-management CRM for B2B sales workflows, with a Polish-language interface.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-> 🔗 Repository: `ADD LINK`
+### 🤖 [KSR_BOT](https://github.com/Luckyillia/KSR_BOT)
+`ADD A ONE-LINE DESCRIPTION: what the bot does and what it's built with`
 
-### 🎨 PaintCS
-A paint-style desktop app made with C# and WinForms: drawing tools and a custom UI.
+### 🖌️ [PaintCS](https://github.com/Luckyillia/PaintCS)
+A paint-style desktop app in C# and WinForms. Draws basic shapes (circle, square, triangle) built on a shared base class, with a settings dialog.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-> 🔗 Repository: `ADD LINK`
 
 ---
 
@@ -118,12 +122,11 @@ A paint-style desktop app made with C# and WinForms: drawing tools and a custom 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zajchenkoi2007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_SITE)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lucky_illia)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/458583627291164684)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucky_iliia)
 
 </div>
 
