@@ -81,7 +81,11 @@ A PHP web application with user login and logout, user management, and a news se
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🤖 [KSR_BOT](https://github.com/Luckyillia/KSR_BOT)
-`ADD A ONE-LINE DESCRIPTION: what the bot does and what it's built with`
+A Telegram bot for a vehicle rental catalog. Users browse cars, filter by price per day/week/month and send booking requests; admins manage bookings, assign rental terms, and add or edit cars right from the chat. A scheduled job (node-cron) checks for expired rentals every 4 hours and notifies admins.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🖌️ [PaintCS](https://github.com/Luckyillia/PaintCS)
 A paint-style desktop app in C# and WinForms. Draws basic shapes (circle, square, triangle) built on a shared base class, with a settings dialog.
